@@ -1,0 +1,3 @@
+[submodule "books/book-01-microsoft-copilot"]
+	path = books/book-01-microsoft-copilot
+	url = ../ai-adoption-copilot-playbook

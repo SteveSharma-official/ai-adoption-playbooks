@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AI Adoption Playbooks lab.json",
+  "type": "object",
+  "required": ["id", "title", "starter_status", "tenant_steps", "has_solution_after_break"],
+  "properties": {
+    "id": {"type": "string", "pattern": "^([0-9]{1,2}\\.[0-9]{1,2}|Capstone)$"},
+    "title": {"type": "string", "minLength": 5},
+    "starter_status": {"enum": ["PASS", "FAIL"]},
+    "tenant_steps": {"type": "boolean"},
+    "has_solution_after_break": {"type": "boolean"}
+  },
+  "additionalProperties": false
+}
