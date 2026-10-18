@@ -17,4 +17,4 @@ Terms used identically in every book and lab repository. Platform-specific frame
 |---|---|
 | 1 | Harbourline Group (harbourline.example) |
 | 2 | Kestrel Freight Group (kestrel.example) |
-| 2 to 7 | To be assigned when each book's labs start; always fictional, always `.example` domains |
+| 3 to 7 | To be assigned when each book's labs start; always fictional, always `.example` domains |
