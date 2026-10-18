@@ -1,3 +1,6 @@
 [submodule "books/book-01-microsoft-copilot"]
 	path = books/book-01-microsoft-copilot
 	url = ../ai-adoption-copilot-playbook
+[submodule "books/book-02-google-gemini"]
+	path = books/book-02-google-gemini
+	url = ../ai-adoption-gemini-playbook

@@ -13,10 +13,10 @@ books:
     submodule_path: books/book-01-microsoft-copilot
   - number: 2
     title: "The Google Gemini Enterprise Playbook"
-    platform: "Google Gemini for Workspace and Google Cloud"
-    status: planned
+    platform: "Gemini in Google Workspace, Gemini Enterprise, Gemini Enterprise Agent Platform, Google Cloud"
+    status: labs-active
     lab_repository: ai-adoption-gemini-playbook
-    submodule_path: null   # created when labs start
+    submodule_path: books/book-02-google-gemini
   - number: 3
     title: "The OpenAI Enterprise Playbook"
     platform: "ChatGPT Enterprise and the OpenAI platform"

@@ -12,7 +12,7 @@ Each book has its own hands-on lab repository. This repository links them togeth
 |---|---|---|---|---|
 | 0 | Implementing Agentic AI: Building Your Organizational Playbook | Series methodology | Not applicable | Methodology |
 | 1 | The Microsoft Copilot Enterprise Playbook | Microsoft 365 Copilot, Copilot Studio, Agent 365, Microsoft Foundry | [`books/book-01-microsoft-copilot`](books/book-01-microsoft-copilot/) (submodule of `ai-adoption-copilot-playbook`) | Labs active |
-| 2 | The Google Gemini Enterprise Playbook | Google Gemini for Workspace and Google Cloud | `ai-adoption-gemini-playbook` (planned) | Planned |
+| 2 | The Google Gemini Enterprise Playbook | Gemini in Workspace, Gemini Enterprise, Gemini Enterprise Agent Platform | [`books/book-02-google-gemini`](books/book-02-google-gemini/) (submodule of `ai-adoption-gemini-playbook`) | Labs active |
 | 3 | The OpenAI Enterprise Playbook | ChatGPT Enterprise and the OpenAI platform | `ai-adoption-openai-playbook` (planned) | Planned |
 | 4 | The Claude Enterprise Playbook | Claude for enterprise | `ai-adoption-claude-playbook` (planned) | Planned |
 | 5 | The Open-Weight and Sovereign AI Playbook | Open-weight and sovereign models | `ai-adoption-open-weight-playbook` (planned) | Planned |
@@ -50,6 +50,7 @@ ai-adoption-playbooks/
   README.md  LICENSE  SECURITY.md  CONTRIBUTING.md  CHANGELOG.md  requirements.txt
   series/books.yaml                 registry of books, status and lab repositories
   books/book-01-microsoft-copilot/  Book 1 lab repository (git submodule)
+  books/book-02-google-gemini/      Book 2 lab repository (git submodule)
   standards/                        lab, validation, naming, writing and terminology standards
   schemas/lab.schema.json           the lab.json contract every lab folder must meet
   templates/book-lab-repo/          starting files for a new book's lab repository

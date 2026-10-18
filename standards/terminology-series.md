@@ -16,4 +16,5 @@ Terms used identically in every book and lab repository. Platform-specific frame
 | Book | Organisation |
 |---|---|
 | 1 | Harbourline Group (harbourline.example) |
+| 2 | Kestrel Freight Group (kestrel.example) |
 | 2 to 7 | To be assigned when each book's labs start; always fictional, always `.example` domains |
